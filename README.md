@@ -38,6 +38,7 @@ npx expo start
 Use the QR code to open the app in **Expo Go**, or launch an emulator/simulator (Android Studio, Xcode). Both apps support web via Expo as well.
 
 ### Resetting to starter code
+
 Inside either app you’ll find `scripts/reset-project.js`. Running
 
 ```bash
@@ -83,6 +84,7 @@ src/
 ## 📱 Key features
 
 ### ClassPulse (Teacher)
+
 - Sign up / sign in using phone or email
 - Create batches of students with grades/subjects
 - Add students and track roll numbers
@@ -94,6 +96,7 @@ src/
 - Live updates via Supabase realtime channels
 
 ### ParentPulse (Parent)
+
 - Authenticate using parent email
 - Select associated student
 - View attendance history
